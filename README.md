@@ -5,7 +5,7 @@
   </div>
 
   <div style="flex: 1; margin-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wafflelover404&layout=compact&theme=dark&langs_count=10" alt="Top Languages" style="width: 100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wafflelover404&layout=donut-vertical&theme=dark&langs_count=10" alt="Top Languages" style="width: 100%;"/>
   </div>
 
 </div>
