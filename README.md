@@ -8,6 +8,7 @@
 - 16 y.o.
 - In love with music
 - Average teen programmer
-- Current Brest Gymnasium №1 student (Republic of Belarus). Future BSUIR student (IIT)
+- Current Brest Gymnasium №1 student (Republic of Belarus). Future BSUIR student (AI)
 - Huge ML enjoyer
-- Fullstack Dev
+- Fullstack Dev, ML engineer
+
