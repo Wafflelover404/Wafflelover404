@@ -5,7 +5,7 @@
 - KB-Sage - Interactive, user-friendly web ui for easy work with GraphTalk, role(restriction) system and auth system.
 
 # About me
-- 16 y.o.
+- 17 y.o.
 - In love with music
 - Average teen programmer
 - Current Brest Gymnasium №1 student (Republic of Belarus). Future BSUIR student (AI)
