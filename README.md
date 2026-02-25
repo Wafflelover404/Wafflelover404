@@ -2,7 +2,7 @@
 
 # Currently working on
 - GraphTalk - A comprehensive knowledge base management and query system with REST API, LLM integration, and semantic processing capabilities. Utilizes both SC-machine and own RAG system for best results
-- KB-Sage - Interactive, user-friendly web ui for easy work with GraphTalk, role(restriction) system and auth system.
+
 
 # About me
 - 17 y.o.
