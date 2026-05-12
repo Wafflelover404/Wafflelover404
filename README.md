@@ -1,23 +1,3 @@
-The user is sharing what appears to be a CV/resume for someone named Ivan Afanasieff (username Wafflelover404), and they're asking me to "properly wrap urls in markdown text."
-
-Looking at the resume, I can see there are URLs that aren't properly formatted in markdown:
-1. LinkedIn URL: https://www.linkedin.com/in/ivan-afanasiev-69382a2b6/
-2. GitHub URL: https://github.com/Wafflelover404
-3. Telegram URL: https://t.me/wafflelover404
-4. ndtp.by URL: https://ndtp.by
-5. There's a malformed URL: (WebDad.by)[https://webdad.by] - this should be [WebDad.by](https://webdad.by)
-6. tinyurl link: http://tinyurl.com/diplomas-afanasieff
-
-The user wants me to format these properly in markdown. I should reformat the resume with proper markdown URL formatting.
-
-This is straightforward - I need to fix the markdown formatting of URLs in the resume. The main issues are:
-- Some URLs aren't wrapped in brackets and parentheses
-- One URL has the bracket/parenthesis order reversed
-- Some could be better integrated into the text
-
-Let me reformat this resume with proper markdown URL wrapping.Here's your resume with properly formatted markdown URLs:
-
----
 
 # Wafflelover404 
 ## Afanasieff Ivan
