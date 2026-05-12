@@ -1,13 +1,60 @@
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Wafflelover404&show_icons=true&theme=transparent" /> <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wafflelover404&show_icons=true&theme=transparent&layout=compact" />
+# Wafflelover404 
+## Afanasieff Ivan
 
-# Currently working on
-- GraphTalk - A comprehensive knowledge base management and query system with REST API, LLM integration, and semantic processing capabilities. Utilizes both SC-machine and own RAG system for best results
+**Email:** afanasieffivan@gmail.com | **LinkedIn:** https://www.linkedin.com/in/ivan-afanasiev-69382a2b6/ | **GitHub:** https://github.com/Wafflelover404
+**Telegram:** https://t.me/wafflelover404
+**Location:** Minsk, Belarus
 
+---
 
-# About me
-- 17 y.o.
-- In love with music
-- Average teen programmer
-- Current Brest Gymnasium №1 student (Republic of Belarus). 
-- Fullstack Dev, ML engineer
+## Summary
 
+Lead Go developer with strong backend, search and distributed-systems background. Focused on scalable microservices, semantic processing, and containerized deployments. Practical experience across backend and full‑stack roles.
+
+---
+
+## Technical Skills
+
+- **Languages:** Go, C++
+- **Databases / Search:** PostgreSQL, Elasticsearch, MongoDB, ChromaDB
+- **Messaging / Streaming:** RabbitMQ
+- **Cloud / Infra:** Docker, Kubernetes, Jenkins, Github, S3, Redis, Prometheus/Graphana
+
+---
+
+## Experience
+
+### Lead Go Developer
+**Jun 2025 – Present** | WikiAi.by | Remote / Minsk
+
+- Designed and implemented backend platform: authentication microservice (Go), Search microservice (C++, Go)
+- Built containerized deployments (Docker, Kubernetes) and Kafka-based pipelines for reliable messaging and orchestration.
+- Developed semantic-graph processing microservices (GraphRAG / OSTIS-style) for semantic workflows; led backend development, code reviews, and production readiness.
+
+### Fullstack Developer
+**Mar 2026 – Present** | (WebDad.by)[https://webdad.by] | Brest
+
+- Developed a Go-based product microservice serving four client applications; designed DB schemas and implemented SQL migrations.
+- Planned out backend implementations
+
+---
+
+## Education
+
+### Information Technologies and Computer Science
+**Apr 2024 – Present** | National Children's Technopark, Minsk | [ndtp.by](https://ndtp.by)
+
+- Multiple awards; selected for extended mentorship and investor-backed development program.
+
+---
+
+## Awards
+
+[Diplomas and Certificates](http://tinyurl.com/diplomas-afanasieff)
+
+- **Talents of the 21st century, Moscow** — First place, 2025
+- **First step in science, NASB** — First place, 2026
+- **Republican Conference of Research Papers, BSTU** — First Diploma, 2025–2026
+- **Republican Conference of Research Papers, BSU** — Third Diploma, 2026
+
+**Languages:** mainly Go, C++, Python.
