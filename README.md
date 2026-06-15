@@ -26,7 +26,7 @@ Lead Go developer with strong backend, search and distributed-systems background
 ## Experience
 
 ### Lead Go Developer
-**Jun 2025 – Present** | WikiAi.by | Remote / Minsk
+**Jun 2025 – Present** | [WikiAi.by](https://wikiai.by)  | Remote / Minsk
 
 - Designed and implemented backend platform: authentication microservice (Go), Search microservice (C++, Go)
 - Built containerized deployments (Docker, Kubernetes) and Kafka-based pipelines for reliable messaging and orchestration.
@@ -38,12 +38,17 @@ Lead Go developer with strong backend, search and distributed-systems background
 - Developed a Go-based product microservice serving four client applications; designed DB schemas and implemented SQL migrations.
 - Planned out backend implementations
 
+### Fullstack Developer, ML-Ops | [Belinnovation.by](https://belinnovation.by)
+
+- Developed C++/GO search engine paired with Python indexation alorithms for knowledge base management
+- Conducted researches on Medical knowledge to build comprehensive knowledge graph
+
 ---
 
 ## Education
 
 ### Information Technologies and Computer Science
-**Apr 2024 – Present** | National Children's Technopark, Minsk | [ndtp.by](https://ndtp.by)
+**Apr 2024 – Jun 2026** | National Children's Technopark, Minsk | [ndtp.by](https://ndtp.by)
 
 - Multiple awards; selected for extended mentorship and investor-backed development program.
 
